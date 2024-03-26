@@ -1,6 +1,6 @@
 # March7thMuse
 
-![image-20240327000438130](C:\Users\Molly_Lee\AppData\Roaming\Typora\typora-user-images\image-20240327000438130.png)
+![image-20240327000438130](.\image\logo.png)
 
 ###### 一个------>崩坏：星穹铁道 - 三月七风格的游戏助手。守护全天下最好的美少女三月七ヾ(≧▽≦*)o
 
